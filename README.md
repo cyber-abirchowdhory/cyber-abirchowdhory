@@ -18,6 +18,14 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 [![Abir Chowdhory YouTube Channel](https://img.shields.io/badge/YouTube-Abir%20Chowdhory-red?logo=youtube&logoColor=white)](https://www.youtube.com/cyber-abirchowdhory) [![ABIR 卝 চৌধুরীツ Instagram](https://img.shields.io/badge/Instagram-Abir%20Chowdhory-pink?logo=instagram&logoColor=white)](https://www.instagram.com/deshbd.admin) [![ABIR 卝 চৌধুরীツ Facebook](https://img.shields.io/badge/Facebook-Abir%20Chowdhory-blue?logo=facebook&logoColor=white)](https://www.facebook.com/admin.deshbd) [![ABIR 卝 চৌধুরীツ Twitter](https://img.shields.io/badge/Twitter-Abir%20Chowdhory-lightblue?logo=twitter&logoColor=white)](https://twitter.com/cyber-abirchowdhory) [![Imran Alam LinkedIn](https://img.shields.io/badge/LinkedIn-Abir%20Chowdhory-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyber-abirchowdhory)
 
+## 💸 Support My Work 🤝	
+
+If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cyber-abirchowdhory)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/cyber-abirchowdhory/)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cyber-abirchowdhory)
+[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)]([https://github.com/cyber-abirchowdhory/Donations/blob/main/README.md)
 
 
 <!-- Snake Game Repo View -->
