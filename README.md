@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Abir Chowdhory
-**A  Web Desigsnerr || Graphics Desigsner || Alpha Desigsn Admin from Bangladesh**
+**A  Web Desigsnerr || Graphics Desigsner || Amar-Project Admin from Bangladesh**
 
 Email Me 👉 ✉️ **mrabihowdhory@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
